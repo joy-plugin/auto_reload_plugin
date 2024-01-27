@@ -1,0 +1,5 @@
+main : joy.hwan.plugin.reloadPlugin.Main
+name : reload_plugin
+version : 1.0.0
+author : joy.hwan
+descrption : We have created the ability to reload buckets automatically when changes (add, delete changes) occur in the plug-in.
